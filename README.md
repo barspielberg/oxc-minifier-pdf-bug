@@ -1,4 +1,4 @@
-A repository to reproduce a bug involving oxc minify and `@react-pdf/renderer`.
+A repository to reproduce a bug involving [oxc minifier](https://github.com/oxc-project/oxc#-minifier) and [@react-pdf/renderer](https://github.com/diegomura/react-pdf).
 
 | esbuild | oxc |
 |--------|--------|
